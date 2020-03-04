@@ -1,6 +1,6 @@
 import React, { Component } from 'react'
 
-export class InputReact extends Component {
+export class TextInputReact extends Component {
     constructor(props) {
         super(props)
     
@@ -19,4 +19,4 @@ export class InputReact extends Component {
     }
 }
 
-export default InputReact
+export default TextInputReact

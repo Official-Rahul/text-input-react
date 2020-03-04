@@ -1,5 +1,5 @@
 {
-  "name": "input-react",
+  "name": "text-input-react",
   "version": "1.0.0",
   "description": "Input component for react app",
   "main": "./build/index.js",
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Official-Rahul/input-react.git"
+    "url": "git+https://github.com/Official-Rahul/text-input-react.git"
   },
   "author": "Official-Rahul",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Official-Rahul/input-react/issues"
+    "url": "https://github.com/Official-Rahul/text-input-react/issues"
   },
-  "homepage": "https://github.com/Official-Rahul/input-react#readme",
+  "homepage": "https://github.com/Official-Rahul/text-input-react#readme",
   "devDependencies": {
     "@babel/core": "^7.8.6",
     "@babel/preset-env": "^7.8.6",

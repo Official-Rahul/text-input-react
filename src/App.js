@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import './App.css';
-import { InputReact } from './components/index';
+import { TextInputReact } from './components/index';
 
 export class App extends Component {
   constructor(props) {
@@ -20,7 +20,7 @@ export class App extends Component {
   render() {
     return (
       <div className="App">
-        <InputReact
+        <TextInputReact
           value={this.state.value}
           label="Name"
           placeholder="Enter name"

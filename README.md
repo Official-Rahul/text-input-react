@@ -11,7 +11,7 @@ Below are the simple steps for installing and using Input React.
 
 ## `How to install`
 
-npm install input-react
+npm install text-input-react
 
 
 ## `How to use`
@@ -19,7 +19,7 @@ npm install input-react
 ### `Import`
 
 ```
-import { InputReact } from "input-react";
+import { TextInputReact } from "text-input-react";
 
 ```
 
@@ -28,7 +28,7 @@ import { InputReact } from "input-react";
 ```
 import React, { Component } from 'react';
 import './App.css';
-import { InputReact } from 'input-react';
+import { TextInputReact } from 'text-input-react';
 
 export class App extends Component {
   constructor(props) {
@@ -48,7 +48,7 @@ export class App extends Component {
   render() {
     return (
       <div className="App">
-        <InputReact
+        <TextInputReact
           value={this.state.value}
           label="Name"
           placeholder="Enter name"
@@ -66,14 +66,14 @@ export default App
 
 ## `Home page`
 
-[https://github.com/Official-Rahul/input-react](https://github.com/Official-Rahul/input-react)
+[https://github.com/Official-Rahul/text-input-react](https://github.com/Official-Rahul/text-input-react)
 
 
 ## `Github Repo`
 
-[https://github.com/Official-Rahul/input-react](https://github.com/Official-Rahul/input-react)
+[https://github.com/Official-Rahul/text-input-react](https://github.com/Official-Rahul/text-input-react)
 
 
 ## `Npm link`
 
-[https://www.npmjs.com/package/input-react](https://www.npmjs.com/package/input-react)
+[https://www.npmjs.com/package/text-input-react](https://www.npmjs.com/package/text-input-react)
