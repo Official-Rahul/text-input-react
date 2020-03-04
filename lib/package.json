@@ -1,0 +1,29 @@
+{
+  "name": "input-react",
+  "version": "1.0.0",
+  "description": "Input component for react app",
+  "main": "./build/index.js",
+  "scripts": {
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Official-Rahul/input-react.git"
+  },
+  "author": "Official-Rahul",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Official-Rahul/input-react/issues"
+  },
+  "homepage": "https://github.com/Official-Rahul/input-react#readme",
+  "devDependencies": {
+    "@babel/core": "^7.8.6",
+    "@babel/preset-env": "^7.8.6",
+    "@babel/preset-react": "^7.8.3",
+    "babel-loader": "^8.0.6",
+    "css-loader": "^3.4.2",
+    "style-loader": "^1.1.3",
+    "webpack": "^4.41.6",
+    "webpack-cli": "^3.3.11"
+  }
+}
